@@ -1,0 +1,126 @@
+{
+    "sitio": {
+        "titulo_pagina": "Estudios Geotecnicos"
+    },
+    "hero": {
+        "titulo": "Ingeniería Geotécnica Mantenimiento y Conservacion de Inmuebles",
+        "descripcion": "Estudiamos el suelo, levantamos el sitio y mantenemos en operación sus instalaciones industriales. Un solo equipo técnico.",
+        "boton_principal": "Obtener presupuesto",
+        "boton_secundario": "Contactenos",
+        "imagen": "imagenes/trabajo/bueno.png",
+        "imagen_alt": "Estudio geotécnico en campo"
+    },
+    "servicios": {
+        "titulo": "NUESTROS SERVICIOS",
+        "items": [
+            {
+                "icono": "imagenes/buildings-fill.svg",
+                "titulo": "Ingeniería Geotécnica",
+                "puntos": [
+                    "Investigacion del Subsuelo",
+                    "Pruebas de Carga",
+                    "Laboratorio",
+                    "Análisis y diseño",
+                    "Supervisión"
+                ],
+                "enlace_texto": "Saber más",
+                "enlace_url": "#"
+            },
+            {
+                "icono": "imagenes/soundwave.svg",
+                "titulo": "Geofísica Aplicada",
+                "puntos": [
+                    "Métodos sísmicos",
+                    "Electrónicos",
+                    "Electrómagnéticos",
+                    "Térmicos"
+                ],
+                "enlace_texto": "Saber más",
+                "enlace_url": "#"
+            },
+            {
+                "icono": "imagenes/rulers.svg",
+                "titulo": "Topografía",
+                "puntos": [
+                    "Planimetría",
+                    "Altimetría",
+                    "Control de obra",
+                    "Replanteo",
+                    "Georeferencia"
+                ],
+                "enlace_texto": "Saber más",
+                "enlace_url": "#"
+            },
+            {
+                "icono": "imagenes/tools.svg",
+                "titulo": "Contrucción Especializada",
+                "puntos": [
+                    "Cimentaciones",
+                    "Contención",
+                    "Terracerias"
+                   
+                ],
+                "enlace_texto": "Saber más",
+                "enlace_url": "#"
+            },
+            {
+                "icono": "imagenes/wrench.svg",
+                "titulo": "Conservación y Mantenimiento",
+                "puntos": [
+                    "Obra civil",
+                    "Instalaciones",
+                    "Áreas verdes y control de plagas"
+                   
+                ],
+                "enlace_texto": "Saber más",
+                "enlace_url": "#"
+            }
+
+        ]
+    },
+    "carrusel": [
+        {
+            "imagen": "imagenes/trabajo/carrusel/imagen1.png",
+            "alt": ""
+        },
+        {
+            "imagen": "imagenes/trabajo/carrusel/imagen2.png",
+            "alt": ""
+        },
+        {
+            "imagen": "imagenes/trabajo/carrusel/imagen3.png",
+            "alt": ""
+        },
+        {
+            "imagen": "imagenes/trabajo/carrusel/image4.png",
+            "alt": ""
+        },
+        {
+            "imagen": "imagenes/trabajo/carrusel/imagen5.png",
+            "alt": ""
+        }
+    ],
+    "footer": {
+        "titulo_accion": "HABLEMOS DE TU PROYECTO",
+        "subtitulo_accion": "Cuéntanos qué necesitas estudiar, verificar o construir. Preparamos una propuesta técnica y económica sin costo.",
+        "telefonos": [
+            "55 1202 1594",
+            "56 4447 0679",
+            "55 6455 2773"
+        ],
+        "whatsapp": [
+            { "texto": "+52 55 1202 1594", "url": "https://wa.me/525512021594" },
+            { "texto": "+52 56 4447 0679", "url": "https://wa.me/525644470679" },
+            { "texto": "+52 55 6455 2773", "url": "https://wa.me/525564552773" }
+        ],
+        "correos": [
+            "Geotecnia@ingeoingenieria.com",
+            "soluciones@ingeoingenieria.com"
+        ],
+        "ubicacion": "Ciudad de México, México",
+        "logo": "imagenes/Ingeo.png",
+        "texto_legal": "© 2026 INGEO INGENIERÍA · PORTAFOLIO DE SERVICIOS 2025",
+        "admin_texto" :"Administracion",
+        "admin_url": "admin/login.php"
+    }
+}
